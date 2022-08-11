@@ -1,0 +1,51 @@
+
+body{
+    background-color: #CEE5D0;
+    text-align: center;
+    
+}
+
+.d1{
+    margin: 10px;
+    font-size: 30px;
+    
+}
+
+img{
+    
+    border-radius: 50px;
+    width: 500px;
+    height: 500px;
+    margin-left: -800px;
+    margin-top: -20px;
+
+}
+
+a{
+    margin: 20px;
+}
+
+.d3{
+ margin-left: 600px;
+ margin-top: -400px;   
+}
+
+.d4{
+    margin-left: -750px;
+    margin-top: 150px;
+}
+
+.d5{
+    margin-left: 600px;
+    margin-top: -400px;
+}
+
+.d6{
+    margin-left: -750px;
+    margin-top: 40px;
+}
+
+.d7{
+    margin-left: 600px;
+    margin-top: -400px;
+}
